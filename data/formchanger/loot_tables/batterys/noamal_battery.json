@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"バッテリーパック\",\"color\":\"white\",\"italic\":false},{\"text\":\" === MARK=1 === \",\"color\":\"gold\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ HOW TO USE ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ ON OFFHAND WHEN USE ELECTRICTOOLS ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンから作成された、ごく普通の電池パック\"}','{\"text\":\"-最低限の性能は保証できるだろう-\",\"color\":\"gray\",\"italic\":false}']},Unbreakable:1,CustomModelData:1990,HideFlags:7,Status:{ItemID:Normal_Battery,ID:Normal_battery,MARKID:1}}"
+            }]
+        }]
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:netherite_shovel",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"テレアンリーサー\",\"color\":\"#9940ff\",\"italic\":false},{\"text\":\" === SHOVEL === \",\"color\":\"gray\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = FORMCHANGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ SET BATTERY IN OFFHAND TO USE ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力を利用し変形する道具\"}','{\"text\":\"-さらなる開化によって、放電を発生させられるようになった-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:アイテム回収範囲拡大 ]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:移動速度低下＆スニーク時小ダメージ ]\",\"color\":\"#ffec17\",\"italic\":false}']},Unbreakable:1,CustomModelData:19940,HideFlags:7,Status:{ItemID:Teleanleaser,FormID:SHOVEL}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

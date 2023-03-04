@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"ピュアバッテリー\",\"color\":\"#9b3cfa\",\"italic\":false},{\"text\":\" === MARK=E === \",\"color\":\"gold\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ HOW TO USE ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ ON OFFHAND WHEN USE ELECTTOOLS ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力と、いまだ解明されない謎の力を用いた不思議な電池\"}','{\"text\":\"-電力量を自由にコントロールできることで、そのまま壊さないような採取ができるようだ-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:シルクタッチ ]\",\"color\":\"#3cfaed\",\"italic\":false}']},Unbreakable:1,CustomModelData:2220,HideFlags:7,Status:{ItemID:Normal_Battery,ID:Pure_battery,MARKID:E}}"
+            }]
+        }]
+    }]
+}

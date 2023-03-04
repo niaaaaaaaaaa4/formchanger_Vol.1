@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_pickaxe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"フローエフェクター\",\"color\":\"#e433ff\",\"italic\":false},{\"text\":\" === PICKAXE === \",\"color\":\"gray\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = FORMCHANGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ SET BATTERY IN OFFHAND TO USE ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"生物の力を借りて姿を変える道具\"}','{\"text\":\"-さらなる開化により、周囲にもシュルカーの影響を及ぼすようになった-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:シフト中範囲浮遊 ]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:攻撃時小範囲浮遊付与 ]\",\"color\":\"#ffec17\",\"italic\":false}']},Unbreakable:1,Enchantments:[{id:mending,lvl:1}],CustomModelData:19500,HideFlags:7,Status:{ItemID:Floweffecter,FormID:PICKAXE}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

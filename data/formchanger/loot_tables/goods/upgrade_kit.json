@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"アップグレードキット\",\"color\":\"#887aff\",\"italic\":false},{\"text\":\" === OFF === \",\"color\":\"gray\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = CHARGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ IN OFFHAND TO ENLIGHT OR EVOLVE ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"所持者の経験値を吸ってはじめて機能するようになる不思議な機械\"}','{\"text\":\"-充電前の姿、このままでは使えないようだ-\",\"color\":\"gray\",\"italic\":false}']},Unbreakable:1,Enchantments:[{id:mending,lvl:1}],CustomModelData:19900,HideFlags:7,Status:{ItemID:Upgrade_Kit,FormID:OFF,Grade:0}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

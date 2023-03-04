@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_pickaxe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"エレクトチェンジャー\",\"color\":\"#ff5e00\",\"italic\":false},{\"text\":\" === PICKAXE === \",\"color\":\"gray\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = FORMCHANGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ SET BATTERY IN OFFHAND TO USE ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力を利用し変形する道具\"}','{\"text\":\"-普通の道具よりは性能が上がっているようだ-\",\"color\":\"gray\",\"italic\":false}']},Unbreakable:1,Enchantments:[{id:sharpness,lvl:1},{id:knockback,lvl:1},{id:efficiency,lvl:1}],CustomModelData:19980,HideFlags:7,Status:{ItemID:Electchanger,FormID:PICKAXE}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

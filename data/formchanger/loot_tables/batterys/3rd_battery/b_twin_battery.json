@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"ツインバッテリー\",\"color\":\"#69edff\",\"italic\":false},{\"text\":\" === MARK=3 === \",\"color\":\"gold\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ HOW TO USE ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ ON OFFHAND WHEN USE ELECTTOOLS ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"研究が進み、さらに性能が上がった電池\"}','{\"text\":\"-並列の構造にしたことで、機能が長持ちするようになった-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:変化時間短縮（小）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:採掘速度上昇（小）]\",\"color\":\"#ffec17\",\"italic\":false}']},Unbreakable:1,CustomModelData:171,HideFlags:7,Status:{ItemID:Normal_Battery,ID:Twin_battery,MARKID:3}}"
+            }]
+        }]
+    }]
+}

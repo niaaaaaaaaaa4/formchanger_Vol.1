@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"デュオデシマル\",\"color\":\"#ff4fcd\",\"italic\":false},{\"text\":\" === MARK=F === \",\"color\":\"gold\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ HOW TO USE ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ ON OFFHAND WHEN USE ELECTTOOLS ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力、不思議な世界の力を複合して製作された、最高性能の電池\"}','{\"text\":\"-十二倍もの性能のはずが、あまり重量を感じない構造になっているようだ-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:変化時間短縮（中）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:採掘速度上昇（中）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:移動速度上昇（中）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:跳躍力上昇（中）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:落下速度低下（中）]\",\"color\":\"#ffec17\",\"italic\":false}','{\"text\":\"[ OPTION:耐性付与（中）]\",\"color\":\"#ffec17\",\"italic\":false}']},Unbreakable:1,CustomModelData:161,HideFlags:7,Status:{ItemID:Normal_Battery,ID:Duodecimal_battery,MARKID:F}}"
+            }]
+        }]
+    }]
+}

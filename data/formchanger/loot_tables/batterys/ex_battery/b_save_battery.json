@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:warped_fungus_on_a_stick",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"セーブバッテリー\",\"color\":\"#9b3cfa\",\"italic\":false},{\"text\":\" === MARK=E === \",\"color\":\"gold\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ HOW TO USE ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ ON OFFHAND WHEN USE ELECTTOOLS ]\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力と、いまだ解明されない謎の力を用いた不思議な電池\"}','{\"text\":\"-一定量以上の放電を抑止することで、周囲に悪影響を及ぼさないようになった-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"[ OPTION:特殊効果不発 ]\",\"color\":\"#3cfaed\",\"italic\":false}']},Unbreakable:1,CustomModelData:2222,HideFlags:7,Status:{ItemID:Normal_Battery,ID:Save_battery,MARKID:E}}"
+            }]
+        }]
+    }]
+}

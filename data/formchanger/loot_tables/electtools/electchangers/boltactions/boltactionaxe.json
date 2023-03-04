@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:netherite_axe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"ボルトアクション\",\"color\":\"#ff0000\",\"italic\":false},{\"text\":\" === AXE === \",\"color\":\"gray\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = FORMCHANGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ SET BATTERY IN OFFHAND TO USE ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"レッドストーンの動力を利用し変形する道具\"}','{\"text\":\"-強化に強化を重ね、さらに性能が向上した-\",\"color\":\"gray\",\"italic\":false}']},Unbreakable:1,Enchantments:[{id:sharpness,lvl:2},{id:knockback,lvl:2},{id:efficiency,lvl:2}],CustomModelData:19970,HideFlags:7,Status:{ItemID:Boltaction,FormID:AXE}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

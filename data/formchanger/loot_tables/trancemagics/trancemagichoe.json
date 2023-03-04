@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:wooden_hoe",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"トランスマジック\",\"color\":\"#000dff\",\"italic\":false},{\"text\":\" === HOE === \",\"color\":\"#82f0ff\",\"italic\":false}]',Lore:['{\"text\":\" \"}','{\"text\":\"[ SHIFT = FORMCHANGE ]\",\"color\":\"gold\",\"italic\":false}','{\"text\":\"[ LONGSHIFT WHEN IN OFFHAND = MAGICCHANT ]\",\"color\":\"purple\",\"italic\":false}','{\"text\":\"[ YOU CAN USE MAGICTOOLS WITHOUT BATTERY ]\",\"color\":\"#db0000\",\"italic\":false}','{\"text\":\" \",\"color\":\"white\",\"italic\":false}','{\"text\":\"不思議な力を用いて姿を変える道具\"}','{\"text\":\"-持ち手には[初心者用]と彫られている-\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"\",\"color\":\"#ffe72e\",\"italic\":false}','{\"text\":\"[ ABILITY = ----- ]\",\"color\":\"#ffe72e\",\"italic\":false}','{\"text\":\"[ MAGIC : MAGICCHANT = マジックバレット : 50 ]\",\"color\":\"#ffe72e\",\"italic\":false}']},Unbreakable:1,Enchantments:[{id:knockback,lvl:1},{id:efficiency,lvl:2},{id:mending,lvl:1}],CustomModelData:15900,HideFlags:7,Status:{ItemID:Transemagic,FormID:HOE,MP:100}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
