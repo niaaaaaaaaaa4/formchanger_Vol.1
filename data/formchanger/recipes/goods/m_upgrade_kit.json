@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "Ree",
+        "efe",
+        "eeL"
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:glass_bottle"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+
+
+        "f": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "formchanger:goods/m_upgrade_kit"
+      }
+    }
+  },
+  "rewards": {
+    "function": "formchanger:craft/goods/get_upgrade_kit"
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "position": {
+                "y": {
+                  "min": -0.1,
+                  "max": 0.1
+                }
+              }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "position": {
+                "y": {
+                  "min": 300,
+                  "max": 500
+                }
+              }
+            }
+        },
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "position": {
+                "y": {
+                  "max": -63,
+                  "min": -70
+                }
+              }
+            }
+        }
+          
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S  ",
+        "###",
+        "  B"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:iron_sword"
+        },
+        "B": {
+            "item": "minecraft:crossbow"
+        },
+        "#": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

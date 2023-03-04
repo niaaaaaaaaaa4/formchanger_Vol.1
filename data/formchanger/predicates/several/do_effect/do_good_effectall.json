@@ -1,0 +1,68 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "effects": {
+      "minecraft:haste": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:jump_boost": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:water_breathing": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:strength": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:regeneration": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:night_vision": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:fire_resistance": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:invisibility": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:luck": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "minecraft:slow_falling": {
+        "amplifier": {
+          "min": 0,
+          "max": 10
+        }
+      }
+    }
+  }
+}

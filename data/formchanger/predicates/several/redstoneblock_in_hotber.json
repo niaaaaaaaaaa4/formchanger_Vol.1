@@ -1,0 +1,132 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:0b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:1b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:2b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:3b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:4b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:5b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:6b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:7b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:8b,id:\"minecraft:redstone_block\",Count:1b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:0b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:1b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:2b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:3b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:4b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:5b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:6b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:7b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "nbt": "{Inventory:[{Slot:8b,id:\"minecraft:redstone\",Count:64b}]}"
+        }
+      }
+    ]
+  }
+  

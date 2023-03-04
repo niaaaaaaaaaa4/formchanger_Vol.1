@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " E ",
+        "A#D",
+        " W "
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:iron_axe"
+        },
+        "A": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "D": {
+            "item": "minecraft:iron_hoe"
+        },
+        "W": {
+            "item": "minecraft:iron_shovel"
+        },
+        "#": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}

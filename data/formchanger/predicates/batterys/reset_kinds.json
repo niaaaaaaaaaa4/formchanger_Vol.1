@@ -1,0 +1,50 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "offhand": {
+                    "nbt": "{Status:{ID:\"Critical_hiter\"}}"
+                }
+            }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "offhand": {
+                    "nbt": "{Status:{ID:\"Grow_battery\"}}"
+                }
+            }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "offhand": {
+                    "nbt": "{Status:{ID:\"Happy_hour\"}}"
+                }
+            }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "offhand": {
+                    "nbt": "{Status:{ID:\"Pure_battery\"}}"
+                }
+            }
+        }
+      }
+    ]
+  }
+  

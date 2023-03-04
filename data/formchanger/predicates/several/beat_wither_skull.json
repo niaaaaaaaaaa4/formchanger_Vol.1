@@ -1,0 +1,18 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type_specific": {
+      "type": "player",
+      "stats": [
+        {
+          "type": "minecraft:killed",
+          "stat": "minecraft:wither_skull",
+          "value": {
+            "min": 665
+          }
+        }
+      ]
+    }
+  }
+}
