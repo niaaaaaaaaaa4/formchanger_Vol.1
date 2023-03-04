@@ -1,0 +1,1 @@
+loot spawn ~ ~2.5 ~ loot formchanger:batterys/final/b_prizm_barrage
