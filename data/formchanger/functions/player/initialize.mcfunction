@@ -1,0 +1,1 @@
+scoreboard players set @s CH_cooldown 0
